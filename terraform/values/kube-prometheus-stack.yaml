@@ -1,0 +1,9 @@
+grafana:
+  additionalDataSources:
+    - name: Loki
+      type: loki
+      access: proxy
+      url: loki:3100
+      editable: true
+      orgId: 1
+      version: 1
