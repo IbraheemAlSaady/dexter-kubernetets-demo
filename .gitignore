@@ -1,2 +1,5 @@
 */.terraform
 */kubeconfig
+
+*/terraform.tfstate
+*/terraform.tfstate*
